@@ -3,6 +3,10 @@
 #include "set.h"
 using namespace std;
 
+
+// maybe it is not a quite nice day today.
+
+
 // TODO #1: Implement the constructor for an empty set
 // Initialize an empty set with array_size equal to 1 
 set::set(){
